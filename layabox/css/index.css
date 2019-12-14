@@ -1,0 +1,99 @@
+.color{
+    background: #2b80d9;
+}
+.engine{
+    background-color: #fbfaf7;
+    /* padding: 100px 0 40px; */
+}
+.engine .flash-title{
+    margin-bottom: 40px;
+}
+.engine .flash-title h1{
+    color: #0078d7;
+    font-size: 48px;
+    font-family: '黑体';
+}
+.engine .flash-title h4{
+    font-size: 30px;
+    color: #666666;
+}
+.engine .flash-items .media-object{
+    background-color: #0078d7;
+    border-radius: 4px;
+}
+.engine .media-body h4{
+    color: #333;
+}
+.engine .media-body p{
+    color: #666;
+}
+.container-fluid .tubiao img{
+    background: #8fc31f;
+    border-radius: 50%;
+}
+.container-fluid h4{
+    font-size: 12px;
+    padding-top: 10px;
+}
+.container-fluid .name{
+    padding-top: 5px;
+}
+.container-fluid .xia{
+    padding-top: 100px;
+}
+.lanshe{
+    background: #0079d7;
+    color: #fff;
+    padding-bottom: 90px;
+}
+.partner{
+    background: #f4f4f4;
+    padding: 40px 0 60px;
+}
+.game{
+    padding: 80px 0 40px;
+    color: #2a2a2a;
+}
+.game .game-title a{
+    color: #2a2a2a;
+    line-height: 70px;
+}
+.game .video,
+.game .game-list{
+    margin-top: 40px;
+}
+.partner .partner-list > div{
+    margin-bottom: 20px;
+}
+.black{
+    background: #3b3b3b;
+    color: #ccc;
+}
+.black a{
+    color: #ccc;
+}
+.black ul li>img{
+    border-radius: 50%;
+    width: 40px;
+}
+.black ul{
+    list-style: none;
+}
+.black ul li{
+    float: right;
+}
+.wxtb{
+    display: none;
+    position:absolute;
+    top: -85px;
+    left: -8px;
+}
+.wx{
+    position: relative;
+}
+footer .wx:hover .wxtb{
+    display: block;
+}
+.footer{
+    padding-top: 20px;
+}

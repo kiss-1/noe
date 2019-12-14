@@ -1,0 +1,49 @@
+.navbar-default{
+    background: #fff;
+    margin-bottom: 0px;
+}
+.navbar-default ul{
+    padding-top: 28px;
+}
+.box{
+    background: #f6ce2a;
+}
+.daohang a{
+    color: #666;
+}
+.daohang a:hover{
+    color: #fff2bc;
+}
+.daohang p{
+    color: #666;
+    font-size: 20px;
+    padding-bottom:40px;
+}
+.img{
+    padding-top: 40px;
+    padding-bottom:60px;
+}
+.pager li > a, .pager li > span{
+    border: 0;
+}
+.daohang{
+    padding-bottom:100px;
+}
+.black{
+    background: black;
+    color: #666;
+}
+.black ul li a{
+    color: #666;
+    padding-top: 60px;
+    padding-bottom:30px
+}
+.black p a{
+    color: #666;
+    border: 1px solid #fff;
+    /* border-radius: 5%; */
+}
+.black .top{
+    position: relative;
+    top: -10px;
+}

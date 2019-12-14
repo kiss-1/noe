@@ -1,0 +1,65 @@
+.navbar{
+    margin-bottom: 0px;
+}
+.color:hover{
+    background: #ff6900;
+    color: #fff;
+}   
+.box{
+    padding-bottom:20px ;
+}
+h3{
+    margin-top: 0px;
+}
+.hr{
+    border-bottom: 1px dashed #ccc;
+}
+.tiao ul{
+    list-style: none;
+}
+.tiao ul li{
+    float: left;
+}
+.tiao ul li a{
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 10%;
+    font-size: 20px;
+}
+.tiao ul li a:hover{
+    background:#e34637;
+    color: #fff;
+    text-decoration: none;
+}
+.black{
+    background: #3b3b3b;
+    color: #ccc;
+}
+.black a{
+    color: #ccc;
+}
+.black ul li>img{
+    border-radius: 50%;
+    width: 40px;
+}
+.black ul{
+    list-style: none;
+}
+.black ul li{
+    float: right;
+}
+.wxtb{
+    display: none;
+    position:absolute;
+    top: -85px;
+    left: -8px;
+}
+.wx{
+    position: relative;
+}
+footer .wx:hover .wxtb{
+    display: block;
+}
+.footer{
+    padding-top: 20px;
+}

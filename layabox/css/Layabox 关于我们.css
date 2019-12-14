@@ -1,0 +1,95 @@
+.navbar{
+    margin-bottom: 0px;
+}   
+.two,.two2{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.two p{
+    text-indent: 2rem;
+}
+.green{
+    background: #8cc11f;
+    color: #fff;
+}
+.green h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.green a{
+    color: #8cc11f;
+    background: #fff;
+}
+.text {
+    padding-top: 80px;
+}
+.text h1{
+    color: #8cc11f;
+    margin-bottom: 40px;
+  padding-top: 30px;
+}
+.text hr{
+    height: 1px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    background: #ccc;
+}
+.text .xia{
+    margin-bottom:40px ;
+}
+.huise{
+    background: #f4f4f4;
+}
+.lianxiwoming .left1{
+    background: #fff;
+    width: 49%;
+    float: left;
+    margin-top: 20px;
+    height: 85px;
+    position: relative;
+}
+.lianxiwoming .right1{
+    background: #fff;
+    width: 49%;
+    float: right;
+    margin-top: 20px;
+    height: 85px;
+    position: relative;
+}
+.lianxiwoming span{
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
+.black{
+    background: #3b3b3b;
+    color: #ccc;
+}
+.black a{
+    color: #ccc;
+}
+.black ul li>img{
+    border-radius: 50%;
+    width: 40px;
+}
+.black ul{
+    list-style: none;
+}
+.black ul li{
+    float: right;
+}
+.wxtb{
+    display: none;
+    position:absolute;
+    top: -85px;
+    left: -8px;
+}
+.wx{
+    position: relative;
+}
+footer .wx:hover .wxtb{
+    display: block;
+}
+.footer{
+    padding-top: 20px;
+}

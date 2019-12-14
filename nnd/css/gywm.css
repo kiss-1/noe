@@ -1,0 +1,48 @@
+.navbar-default{
+    background: #fff;
+    /* height: 120px; */
+    margin-bottom: 0px;
+}
+.navbar-default ul{
+    padding-top: 28px;
+}
+.box{
+    background: #f6ce2a;
+}
+.bianju,.tup{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.bianju p{
+    color: #666;
+}
+.bianju img{
+    width: 400px;
+}
+.huise{
+    background: #f3f3f3;
+}
+.tup img{
+    padding-bottom: 20px;
+}
+.tup >div:hover{
+    color: #f6ce2a;
+}
+.black{
+    background: black;
+    color: #666;
+}
+.black ul li a{
+    color: #666;
+    padding-top: 60px;
+    padding-bottom:30px
+}
+.black p a{
+    color: #666;
+    border: 1px solid #fff;
+    /* border-radius: 5%; */
+}
+.black .top{
+    position: relative;
+    top: -10px;
+}

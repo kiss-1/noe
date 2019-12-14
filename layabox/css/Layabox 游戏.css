@@ -1,0 +1,56 @@
+.navbar{
+    margin-bottom: 0px;
+}
+.bianju img{
+    margin:20px;
+}
+.bianju{
+    margin-bottom: 40px;
+}
+.tangxhez{
+    margin-top: 40px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+.tangxhez img{
+    margin-top: 20px;
+}
+.tangxhez p{
+    text-align: center;
+    color: #666;
+}
+.black{
+    background: #3b3b3b;
+    color: #ccc;
+}
+.black a{
+    color: #ccc;
+}
+.black ul li>img{
+    border-radius: 50%;
+    width: 40px;
+}
+.black ul{
+    list-style: none;
+}
+.black ul li{
+    float: right;
+}
+.wxtb{
+    display: none;
+    position:absolute;
+    top: -85px;
+    left: -8px;
+}
+.wx{
+    position: relative;
+}
+footer .wx:hover .wxtb{
+    display: block;
+}
+.footer{
+    padding-top: 20px;
+}

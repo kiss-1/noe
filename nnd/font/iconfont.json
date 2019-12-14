@@ -1,0 +1,23 @@
+{
+  "id": "1529352",
+  "name": "2019.11.26",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "523910",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "784212",
+      "name": "版权",
+      "font_class": "banquan",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    }
+  ]
+}
